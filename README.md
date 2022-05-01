@@ -9,7 +9,7 @@ pkg install python3
 pkg install git
 git clone https://github.com/PISCOHACK/piscosms
 ls
-python3 pisco.py
+python3 piscosms.py
 
 
 att : PISCO
